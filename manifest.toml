@@ -19,7 +19,7 @@ fund = "https://github.com/sponsors/bulwarkmail"
 [integration]
 yunohost = ">= 12.1.39"
 helpers_version = "2.1"
-architectures = "["amd64", "arm64"]
+architectures = ["amd64", "arm64"]
 multi_instance = true
 
 ldap = false
